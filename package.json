@@ -1,0 +1,20 @@
+{
+  "name": "stylelint-config-order",
+  "version": "1.0.0",
+  "description": "css sorting rules for stylelint",
+  "main": "index.js",
+  "keywords": [
+    "stylelint",
+    "stylelint-order"
+  ],
+  "author": "jinseok.d@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p1ayground/stylelint-config-order.git"
+  },
+  "peerDependencies": {
+    "stylelint": "^15.10.3",
+    "stylelint-order": "^6.0.3"
+  }
+}
